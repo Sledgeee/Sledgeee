@@ -73,16 +73,16 @@
 ###
 
 <div align="center">
-  <a href="https://t.me/pxfos" target="_blank">
+  <a href="https://t.me/pulsef1re" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
-  <a href="discordapp.com/users/pxfos" target="_blank">
+  <a href="discordapp.com/users/olejio" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="mailto://zochit21@gmail.com" target="_blank">
+  <a href="mailto://bazisc.qa@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/bogdan-mazur-73bb22270/" target="_blank">
+  <a href="https://www.linkedin.com/in/oleh-voloshyn-b65614209/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://portfolio-frontend-teal.vercel.app/" target="_blank">
@@ -91,11 +91,11 @@
 </div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/sorrybodikmain/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Sledgeee/count.svg?"  />
 </div>
 
 <div align="center">
-  <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D19050%26project%3D%26in=0"/>
+  <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24474%26project%3D%26in=0">
 </div>
 
 ###
