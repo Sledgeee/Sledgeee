@@ -102,6 +102,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Sledgeee/snake_generator/output/snake.svg" alt="Snake animation" />
-
 ###
